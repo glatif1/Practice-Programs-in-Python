@@ -1,0 +1,20 @@
+GC-content:', 0.4302926296296296
+GC-content:', 0.4302926296296296)
+AT-content:', 0.5689938518518518
+
+
+Part 2C
+('G-content', 5738773)
+('C-content:', 5879128)
+
+ 
+('AT to GC ratio:', 1.3223416174746196)
+ 
+('A-content:', 7701287)
+('T-content:', 7661547)
+ 
+('Length of Sequence:', 27000000)
+('Total Count:', 27000000)
+('Sum:', 26980735)
+
+This organism has MODERATE GC CONTENT
